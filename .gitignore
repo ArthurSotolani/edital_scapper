@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+editais_relevantes.json
+editais_relevantes.csv
+editais_relevantes.md
